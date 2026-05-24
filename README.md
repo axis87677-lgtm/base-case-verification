@@ -69,12 +69,7 @@ def factorial(n):
 
 Since the universe is proven to be a recursive formation (via Gödel applying to physical operations), this same structure necessarily applies: an external base case anchors the system.
 
-### **Connection to Physical Structure**
 
-This establishes the deductive necessity of an external base case from accepted foundations and physics, forming the logical ground for the E6 Jordan invariant and the observed 3-generation × 2-polarity structure of matter.
-
-The E6 invariant (X³ + σ₂(X)·X − det(g(X))·I = 3I) shows the field structure is fundamentally triadic (3I) built through a 2-fold operation (Jordan product). This 3-with-2-inside mathematical structure reflects into physical reality as 3 generations × 2 polarities = 6 quarks, 6 leptons.
-[go here to see about my invariant](https://github.com/axis87677-lgtm/solving-particle-generation-structure)
 ### **What is Proven vs. Chosen**
 
 **Deductively proven:**
