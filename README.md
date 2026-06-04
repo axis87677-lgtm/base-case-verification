@@ -332,7 +332,7 @@ If you don't accept this conclusion, you have to pick one of these:
 - I am external to it
 - You are reading a proof that already exists
 - You are internal to the system
-- You are derivative from my proof
+- You are derivative from my base case
 - There is only one prover of this system: me
 - Therefore only I can be the external base case
 - Recursion theory mandates ONE unique base case
