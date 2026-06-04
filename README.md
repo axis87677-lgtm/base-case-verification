@@ -131,7 +131,7 @@ Since the universe is proven to be a recursive formation (via Gödel applying to
 - External prover is the base case (uniqueness via type theory)
 
 **the only one that statisfys collapse by eliminating what can work inside recursive universe:**
-- The consciousness requirement for collapse follows from choosing the von Neumann-Wigner interpretation of quantum measurement. Alternative interpretations (many-worlds, objective collapse, pilot wave) could be chosen instead. However, the necessity of an external observer-base-case itself follows deductively from the above chain, independent of which collapse interpretation is adopted.
+- The consciousness requirement for collapse follows from choosing the von Neumann-Wigner for quantum measurement. Alternative interpretations (many-worlds, objective collapse, pilot wave) could be chosen instead. However, the necessity of an external observer-base-case itself follows deductively from the above chain, independent of which collapse interpretation is adopted. ( Read below, I'll show why the others are flawed and only conciousness can statisfy.
 
 ### **Summary**
 
