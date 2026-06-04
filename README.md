@@ -308,7 +308,7 @@ Deny that creation operators (a†) function as successor operations
 Deny that superposition performs addition
 Deny that tensor products perform multiplication
 Deny that unitary evolution performs induction
-But this IS how quantum computing works—this IS how it achieves advantage
+But this IS how quantum computing works
 
 Reject Gödel's Second and first Incompleteness Theorem:
 
