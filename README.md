@@ -216,6 +216,9 @@ Rejecting Deutsch's ontological interpretation creates an irresolvable contradic
 
 **Therefore:** Either accept Deutsch's principle as he states it (computation is physical, physics is computational) or reject the theoretical foundation of quantum computing. There is no middle ground.
 
+**to add this too**:
+A formal system, in the sense relevant to Gödel’s theorems, is one that can express basic arithmetic and represent its own provability. Physics meets these requirements because it instantiates computational operations (via substrate independence) and performs Peano Arithmetic at minimum: the creation operator acts as successor, superposition as addition, tensor products as multiplication, and unitary evolution as induction. This gives physics the structure of a rule-governed system capable of representing and transforming discrete states in a way that satisfies the formal conditions for G1 and G2 to apply.
+
 ### Additional Sources
 
 **Wolfram's parallel formulation (February 1985):**
