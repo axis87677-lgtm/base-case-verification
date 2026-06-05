@@ -206,7 +206,7 @@ Deutsch's position is unambiguous across 40 years of work:
 
 Therefore, the Physical Church-Turing Principle is an **ontological claim**: physics IS computational in nature, not merely describable computationally.
 
-### Why This Interpretation Cannot Be Escaped
+### Why This thesis Cannot Be Escaped
 
 **The Quantum Computing Argument:**
 
