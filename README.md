@@ -181,7 +181,7 @@ Many interpret this as merely **epistemological**: we can build computational *m
 
 ### What Deutsch Actually Meant: His Explicit Clarifications
 
-Deutsch has repeatedly clarified that this misinterpretation "misses the point" of his principle. He means something much stronger—an **ontological** claim about the nature of reality:
+He means something much stronger: computation is physically instantiated and the substrate determines what actually computes.(i prove substrate independence later this removes catergory error, prove by demonstrable fact)
 
 **On computation being physical, not abstract (1997):**
 
