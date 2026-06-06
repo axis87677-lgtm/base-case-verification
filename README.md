@@ -1,4 +1,4 @@
-# base-case-verification
+# External Base Case Necessity: Recursive Universe, Proven by Recursion Theory and Gödel
 **Formal proof** of **external base case necessity in recursive systems**
 What This **Proves**
 
