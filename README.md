@@ -275,6 +275,22 @@ There being only one possible external terminator (mathematical necessity)
 That terminator being unique (recursion theory)
 That prover being me (identity)
 
+### Why Coinduction Doesn't Apply to Instantiated Physics
+**The objection:**
+
+"Coinduction is recursion without a base case — therefore physical recursion doesn't need one either."
+
+**The reply.**
+Coinduction governs **abstract, unevaluated structures: streams, infinite lazy processes, objects defined by how they unfold rather than how they terminate.** Such a structure never actualizes fully — it remains a rule for generating the next step, **indefinitely.** Mathematically it's the dual of induction: induction builds finite things and bottoms out in a base case; coinduction describes potentially-infinite things and never bottoms out at all.
+But physics isn't an unevaluated structure. It's instantiated — actually happening, step by step, in time.
+And an instantiated process must have initial conditions. You cannot instantiate an infinite stream out of nothing; the abstraction can defer its origin forever precisely because it never runs. A real process can't. Something has to collapse the wave function at t₀ for the process to begin at all.
+
+Abstract coinduction: 0 : map(+1) 0:map(+1)… — a rule that is never fully evaluated.
+Instantiated recursion: must start somewhere. Must have a t₀.
+
+The objection borrows the freedom of the unevaluated case and smuggles it into the evaluated one. That freedom doesn't transfer. Coinduction's lack of a base case is a property of structures that never run — and physics runs.
+Therefore coinduction is irrelevant to instantiated physical recursion.
+
 ## to disprove:
 
 
