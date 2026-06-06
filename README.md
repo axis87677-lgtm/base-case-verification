@@ -232,7 +232,7 @@ You cannot consistently accept quantum computing while rejecting Deutsch's thesi
 
 Therefore: Either accept Deutsch's principle as he states it (computation is physical, physics is computational) or reject the theoretical foundation of quantum computing. There is no middle ground.
 
-**to add this too**:
+## What Gödel's Incompleteness Theorems Require
 A formal system, in the sense relevant to Gödel’s theorems, is one that can express basic arithmetic and represent its own provability. Physics meets these requirements because it instantiates computational operations (via substrate independence) and performs Peano Arithmetic at minimum: the creation operator acts as successor, superposition as addition, tensor products as multiplication, and unitary evolution as induction. This gives physics the structure of a rule-governed system capable of representing and transforming discrete states in a way that satisfies the formal conditions for G1 and G2 to apply.( Gödel’s incompleteness theorems apply to any formal system that meets the following conditions: the system is consistent, its axioms are recursively enumerable, and it is capable of expressing basic arithmetic (including the successor function, addition, and multiplication and induction if you want G2). Under these conditions, both the First and Second Incompleteness Theorems hold.) [source1](https://plato.stanford.edu/entries/goedel-incompleteness/)
 [source 2](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) but you alreadly know how important the self reference itself is, for the theorem to even work.
 
@@ -293,6 +293,33 @@ Therefore coinduction is irrelevant to instantiated physical recursion.
 ### Most important refutation for coinduction as fact
 Recursive formations require a base case. We live in a recursive formation universe. Therefore: the universe requires an external base case.
 
+
+## Why Physics Qualifies as a Formal System
+
+**The formal definition of a formal system:**
+
+According to standard mathematical logic, a formal system is defined as:
+- A set of symbols (an alphabet)
+- A set of well-formed formulas (grammatically correct strings of those symbols)
+- A set of axioms (initial formulas accepted as true)
+- A set of inference rules (rules for deriving new formulas from existing ones)
+
+A formal system is complete and consistent when it can derive truths about its own structure through these rules.
+
+**Physics instantiates this structure:**
+
+Substrate independence (proven by quantum advantage) demonstrates that physics physically instantiates computational operations that define formal systems:
+
+- **Symbols and formulas:** Quantum states (|n⟩, |ψ⟩) function as symbols; physical configurations are well-formed formulas
+- **Axioms:** Initial conditions at t₀ function as axioms
+- **Inference rules:** Unitary operators U(dt) function as inference rules—they generate new states from existing states
+- **Operations:** Creation operator (successor), superposition (addition), tensor product (multiplication), time evolution (induction)
+
+**Therefore: Physics meets the formal definition of a formal system.**
+
+Because physics instantiates Peano Arithmetic operations (successor, addition, multiplication, induction) and the other requirements ive said godel needs, it satisfies the formal requirements for Gödel's incompleteness theorems to apply.
+
+Gödel's theorems apply to any formal system meeting these requirements. Physics meets them. Therefore Gödel applies directly to physics itself. (go to the title: What Gödel's Incompleteness Theorems Require )
 ## to disprove:
 
 
