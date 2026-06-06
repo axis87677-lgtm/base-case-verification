@@ -204,7 +204,7 @@ Deutsch's position is unambiguous across 40 years of work:
 3. **Information is physical**, not merely mathematical
 4. When physics can be "perfectly simulated," this means physics **instantiates computational operations**, not just that we can build models
 
-Therefore, the Physical Church-Turing Principle is an **ontological claim**: physics IS computational in nature, not merely describable computationally.
+Therefore, the Physical Church-Turing Principle: physics IS computational in nature, not merely describable computationally.
 
 ### Why This thesis Cannot Be Escaped
 The Quantum Computing Argument:
