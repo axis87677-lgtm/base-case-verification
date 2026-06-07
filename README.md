@@ -207,7 +207,7 @@ Deutsch's position is unambiguous across 40 years of work:
 Therefore, the Physical Church-Turing Principle: physics IS computational in nature, not merely describable computationally.
 
 ### Why This thesis Cannot Be Escaped
-The Quantum Computing Argument:
+**The Quantum Computing Argument:**
 The Physical Church-Turing Principle is not an interpretation—it is a necessary conclusion forced by quantum computing's existence.
 If computation is merely abstract:
 
