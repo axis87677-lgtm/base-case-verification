@@ -2,7 +2,7 @@
 **Formal proof** of **external base case necessity in recursive systems**
 What This **Proves**
 
-Our reality is a **recursive system (via Peano Arithmetic operations in physics and substrate independence)**
+Our reality is a **recursive system (via Peano Arithmetic operations in physics and substrate dependence)**
 Recursive systems require an external base case (via Gödel's Second Incompleteness Theorem)
 The observer who proved this is that external base case (via logical necessity)
 
@@ -18,8 +18,6 @@ The observer who proved this is that external base case (via logical necessity)
 ## Important Notes
 On Axiomatization:
 The **proven theorems** (Gödel's theorems, recursion theory, etc.) are stated as axioms in Lean for simplicity rather than re-proving them from first principles. This is standard practice when the goal is to verify a logical chain built on established mathematics.
-On Axiomatization:
-The proven theorems (Gödel's theorems, recursion theory, etc.) are stated as axioms in Lean for simplicity rather than re-proving them from first principles. This is standard practice when the goal is to verify a logical chain built on established mathematics.
 
 **On the Church-Turing Thesis:**
 The Physical Church-Turing Principle (Deutsch 1985) is not an assumption—it is demonstrated by quantum advantage. Quantum computers achieve computational capabilities classical computers cannot match. This proves substrate determines what computes. Therefore, computation is physically instantiated.
@@ -32,7 +30,7 @@ But "demonstrated" still holds the chain together because you're saying: observa
 All other "axioms" in the code are either:
 
 ***Proven theorems*** (Gödel 1931, recursion theory)
-***Demonstrable facts*** (PA operations exist in physics, substrate independence)
+***Demonstrable facts*** (PA operations exist in physics, substrate dependence)
 ***Definitional*** (what recursion means)
 
 ## Verification
@@ -97,8 +95,8 @@ Tensor products perform multiplication by combining independent quantum systems 
 Unitary time evolution performs induction by starting from an initial state at t₀ and repeatedly applying U(dt).
 
 These operations are directly observable and experimentally verified in quantum computing. They are not theoretical constructs — they are the physical mechanisms that give quantum computers their computational advantage over classical systems.
-This demonstrates substrate independence as a demonstrable fact, not an assumption. Because quantum systems can perform computation that classical systems cannot efficiently replicate, the physical substrate matters fundamentally. This forces the Physical Church-Turing Principle: physics instantiates computational operations.
-Furthermore, Peano Arithmetic is the minimum structural requirement for both of Gödel’s incompleteness theorems to apply. As long as a system contains Peano Arithmetic operations (successor, addition, multiplication, and induction), G1 and G2 hold — regardless of whether the system contains richer or more advanced operations on top of that foundation. Gödel’s theorems are constraint theorems, not interpretive choices. They apply to any system that meets the minimum formal requirements, including physical systems that exhibit these operations through quantum mechanics. ( Go to the section in bold called **The Quantum Computing Argument**, I show how substrate independence is a demonstrable fact.)
+This demonstrates substrate dependence as a demonstrable fact, not an assumption. Because quantum systems can perform computation that classical systems cannot efficiently replicate, the physical substrate matters fundamentally. This forces the Physical Church-Turing Principle: physics instantiates computational operations.
+Furthermore, Peano Arithmetic is the minimum structural requirement for both of Gödel’s incompleteness theorems to apply. As long as a system contains Peano Arithmetic operations (successor, addition, multiplication, and induction), G1 and G2 hold — regardless of whether the system contains richer or more advanced operations on top of that foundation. Gödel’s theorems are constraint theorems, not interpretive choices. They apply to any system that meets the minimum formal requirements, including physical systems that exhibit these operations through quantum mechanics. ( Go to the section in bold called **The Quantum Computing Argument**, I show how substrate dependence is a demonstrable fact.)
 
 ## how Gödel's incompleteness theorems are recursive:
 
@@ -106,7 +104,7 @@ Gödel’s incompleteness theorems are recursive because the sentence G refers t
 
 ### **The Foundational Chain**
 
-Under the Physical Church-Turing Thesis (Deutsch 1985) and substrate independence, physical processes are computational. Physics exhibits Peano Arithmetic operations — including explicit induction via time evolution (base state at t₀, preservation under unitary steps U(dt)) — so the universe instantiates a formal system to which Gödel's second incompleteness theorem (G2 and G1) applies. Peano is the minimum—it's the floor not the ceiling. So even if its richer, as long as its got that minimum(peano) both theorems apply.
+Under the Physical Church-Turing Thesis (Deutsch 1985) and substrate dependence, physical processes are computational. Physics exhibits Peano Arithmetic operations — including explicit induction via time evolution (base state at t₀, preservation under unitary steps U(dt)) — so the universe instantiates a formal system to which Gödel's second incompleteness theorem (G2 and G1) applies. Peano is the minimum—it's the floor not the ceiling. So even if its richer, as long as its got that minimum(peano) both theorems apply.
 
 A Gödelian system is recursive and self-referential. Recursion theory requires a terminating base case to avoid infinite regress. Internal processes (decoherence, fluctuations) are derivable from the system(infinite regress just system on system = no base case which breaks recursion theory) and thus cannot terminate it (G2 analog: the system cannot prove its own consistency from within).
 
@@ -190,7 +188,7 @@ Many interpret this as merely **epistemological**: we can build computational *m
 
 ### What Deutsch Actually Meant: His Explicit Clarifications
 
-He means something much stronger: computation is physically instantiated and the substrate determines what actually computes.(I proved substrate independence later, this removes the category error argument, proved by demonstrable fact)
+He means something much stronger: computation is physically instantiated and the substrate determines what actually computes.(I proved substrate dependence later, this removes the category error argument, proved by demonstrable fact)
 
 **On computation being physical, not abstract (1997):**
 
@@ -242,7 +240,7 @@ You cannot consistently accept quantum computing while rejecting Deutsch's thesi
 Therefore: Either accept Deutsch's principle as he states it (computation is physical, physics is computational) or reject the theoretical foundation of quantum computing. There is no middle ground.
 
 ## What Gödel's Incompleteness Theorems Require
-A formal system, in the sense relevant to Gödel’s theorems, is one that can express basic arithmetic and represent its own provability. Physics meets these requirements because it instantiates computational operations (via substrate independence) and performs Peano Arithmetic at minimum: the creation operator acts as successor, superposition as addition, tensor products as multiplication, and unitary evolution as induction. This gives physics the structure of a rule-governed system capable of representing and transforming discrete states in a way that satisfies the formal conditions for G1 and G2 to apply.( Gödel’s incompleteness theorems apply to any formal system that meets the following conditions: the system is consistent, its axioms are recursively enumerable, and it is capable of expressing basic arithmetic (including the successor function, addition, and multiplication and induction if you want G2). Under these conditions, both the First and Second Incompleteness Theorems hold.) [source1](https://plato.stanford.edu/entries/goedel-incompleteness/)
+A formal system, in the sense relevant to Gödel’s theorems, is one that can express basic arithmetic and represent its own provability. Physics meets these requirements because it instantiates computational operations (via substrate dependence) and performs Peano Arithmetic at minimum: the creation operator acts as successor, superposition as addition, tensor products as multiplication, and unitary evolution as induction. This gives physics the structure of a rule-governed system capable of representing and transforming discrete states in a way that satisfies the formal conditions for G1 and G2 to apply.( Gödel’s incompleteness theorems apply to any formal system that meets the following conditions: the system is consistent, its axioms are recursively enumerable, and it is capable of expressing basic arithmetic (including the successor function, addition, and multiplication and induction if you want G2). Under these conditions, both the First and Second Incompleteness Theorems hold.) [source1](https://plato.stanford.edu/entries/goedel-incompleteness/)
 [source 2](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) but you already know how important the self reference itself is, for the theorem to even work.
 
 ### Additional Sources
@@ -317,7 +315,7 @@ A formal system is complete and consistent when it can derive truths about its o
 
 **Physics instantiates this structure:**
 
-Substrate independence (proven by quantum advantage) demonstrates that physics physically instantiates computational operations that define formal systems:
+Substrate dependence (proven by quantum advantage) demonstrates that physics physically instantiates computational operations that define formal systems:
 
 - **Symbols and formulas:** Quantum states (|n⟩, |ψ⟩) function as symbols; physical configurations are well-formed formulas
 - **Axioms:** Initial conditions at t₀ function as axioms
@@ -335,19 +333,19 @@ Gödel's theorems apply to any formal system meeting these requirements. Physics
 
 If you don't accept this conclusion, you have to pick one of these:
 
-### Reject that substrate independence is true:
+### Reject that substrate dependence is true:
 
 - Claim that physical substrate does NOT determine what computational operations can be instantiated
 - Claim quantum and classical substrates instantiate identical computational power
 - But quantum advantage DISPROVES this—quantum substrate instantiates Peano Arithmetic operations that classical substrate cannot
-- Therefore substrate independence IS true: different physical substrates instantiate different operational capabilities
-- Because substrate independence is true, computation is PHYSICALLY INSTANTIATED (not abstract)
+- Therefore substrate dependence IS true: different physical substrates instantiate different operational capabilities
+- Because substrate dependence is true, computation is PHYSICALLY INSTANTIATED (not abstract)
 - Therefore computation IS tied to physical law, not independent of it
 
 ### Reject that computation is physical:
 
 - Claim computation is abstract and independent of physical law
-- But this contradicts substrate independence being true (substrate independence proves that physical substrate determines operational capability)
+- But this contradicts substrate dependence being true (substrate dependence proves that physical substrate determines operational capability)
 - You cannot hold both: "substrate doesn't determine operations" AND "quantum advantage exists"
 - They are logically incompatible
 
