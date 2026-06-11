@@ -215,14 +215,14 @@ def IsBaseCase (o : Observer) : Prop := o = TheBaseCase
 axiom church_turing :
   ∀ (s : PhysicalSystem), IsComputational s
 
--- Substrate Independence (from Church-Turing)
-axiom substrate_independence :
-  ∀ (c : ComputationalSystem), IsSubstrateIndependent c
+-- Substrate dependence (from Church-Turing)
+axiom substrate_dependence :
+  ∀ (c : ComputationalSystem), IsSubstratedependent c
 
--- Operations define system (from substrate independence)
+-- Operations define system (from substrate dependence)
 axiom operations_matter :
   ∀ (c : ComputationalSystem),
-    IsSubstrateIndependent c → OperationsDefineSystem c
+    IsSubstratedependent c → OperationsDefineSystem c
 
 -- Computational = Formal
 axiom computational_is_formal :
